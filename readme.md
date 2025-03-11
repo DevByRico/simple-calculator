@@ -14,6 +14,4 @@ Since this project is not hosted online, you can run it locally by simply openin
 - **Customizable**: Easily modify the styles and functionality to suit your needs.
 - **Semantic Markup**: Structured with semantic HTML5 elements for better accessibility and SEO.
 
-## Project Structure
-
 © 2025 Simple Calculator. All Rights Reserved. | Developed & Designed by Ricardo Nicolau
