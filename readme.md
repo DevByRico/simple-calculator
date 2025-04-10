@@ -2,6 +2,10 @@
 
 Simple Calculator is a responsive web-based calculator that provides users with basic arithmetic operations through a clean and intuitive interface. Built with HTML, CSS, and JavaScript, this project demonstrates modern web design principles with a focus on simplicity, responsive design, and keyboard support.
 
+## Live Demo
+
+Check out the live demo at [Simple Calculator Live](https://simple-calculator-rn.netlify.app)
+
 ## Local Demo
 
 Since this project is not hosted online, you can run it locally by simply opening the `index.html` file in your web browser.
